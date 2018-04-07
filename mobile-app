@@ -1,0 +1,137 @@
+<!DOCTYPE HTML>
+<!--
+	Relativity by Pixelarity
+	pixelarity.com | hello@pixelarity.com
+	License: pixelarity.com/license
+-->
+<html>
+	<head>
+		<title>The Modern Boutique - Mobile App</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+
+		<meta name="description" content="The Modern Boutique provides mobile apps, web apps, and powerful dashboards to support your retail store's growth.  Whether you're just opening your doors or reinventing your brand to access a global audience, we help you reach your customers where and how they shop online today.">
+
+		<meta property="og:title" content="The Modern Boutique: Retail apps to win in the mobile economy" />
+		<meta property="og:type" content="website" />
+		<meta property="og:url" content="http://www.themodernboutique.com/" />
+		<meta property="og:image" content="images/og_pic.png" />
+		<meta property="og:description" content="The Modern Boutique provides mobile apps, web apps, and powerful dashboards to support your retail store's growth.  Whether you're just opening your doors or reinventing your brand to reach a global audience, we help you reach your customers where and how they shop online today." />
+
+		<meta name="twitter:card" content="summary_large_image">
+		<meta name="twitter:title" content="The Modern Boutique: Retail apps to win in the mobile economy">
+		<meta name="twitter:description" content="The Modern Boutique provides mobile apps, web apps, and powerful dashboards to support your retail store's growth.  Whether you're just opening your doors or reinventing your brand to reach a global audience, we help you reach your customers where and how they shop online today.">
+		<meta name="twitter:image" content="images/og_pic.png">
+
+
+
+	</head>
+	<body>
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header" class="">
+
+						<!-- Logo -->
+							<div class="logo">
+								<a href="/" class="topleftlogo"><!-- <span class="image fit actuallogo"><img src="images/shoelogo.svg" alt="" /> --></span>The Modern Boutique</a>
+							</div>
+
+						<!-- Nav -->
+							<nav id="nav">
+								<ul>
+
+									<!-- <li class="nope">
+										<a href="#" class="icon fa-angle-down">Features</a>
+										<a href="#features" class="navlinks scrolly">Features</a>
+										<ul>
+											<li><a href="#">Option One</a></li>
+											<li><a href="#">Option Two</a></li>
+											<li><a href="#">Option Three</a></li>
+											<li>
+												<a href="#">Submenu</a>
+												<ul>
+													<li><a href="#">Option One</a></li>
+													<li><a href="#">Option Two</a></li>
+													<li><a href="#">Option Three</a></li>
+													<li><a href="#">Option Four</a></li>
+												</ul>
+											</li>
+										</ul>
+									</li> -->
+									<li class="nope"><a href="/#graphs" class="navlinks scrolly">Why Now?</a></li>
+									<li class="nope"><a href="/#yourapp" class="navlinks scrolly">Your App</a></li>
+									<li class="nope"><a href="/#features" class="navlinks scrolly">Features</a></li>
+
+									<li><a href="/#getStarted" class="button scrolly whitebutton">Get Started for Free</a></li>
+								</ul>
+							</nav>
+
+					</header>
+
+
+					<div class="holditin">
+						<div class="stripes stripes1">
+							<span class="newstripe1"></span>
+							<span class="newstripe2"></span>
+							<!-- <span></span>
+							<span></span>
+							<span></span> -->
+						</div>
+
+						<div class="inner style2 ontop thankstop">
+
+							<section class="main alt">
+								<header>
+									<h1 class="white">Your Audience Awaits</h1>
+									<p class="white thanksp">Propel ahead of your competitors and be a leader in the retail industry.  Customers now expect a flawless mobile experience, and now you can deliver just that with your very own mobile app!</p>
+
+									<iframe style="transform: scale(0.85)" width="442" height="935" src="//invis.io/GEGDEB7NT62" frameborder="0" allowfullscreen></iframe>
+
+									<ul class="actions">
+										<li><a href="/" class="button actualsend purplebutton">Home</a></li>
+									</ul>
+
+
+								</header>
+							</section>
+
+
+							
+						</div>
+
+
+					</div>
+
+
+
+
+				<!-- Footer -->
+					<footer id="footer">
+						<ul class="icons">
+							<li><a href="#" class="icon alt fa-twitter"><span class="label">Twitter</span></a></li>
+							<li><a href="#" class="icon alt fa-facebook"><span class="label">Facebook</span></a></li>
+							<li><a href="#" class="icon alt fa-instagram"><span class="label">Instagram</span></a></li>
+							<li><a href="#" class="icon alt fa-github"><span class="label">GitHub</span></a></li>
+							<li><a href="#" class="icon alt fa-phone"><span class="label">Phone</span></a></li>
+							<li><a href="#" class="icon alt fa-envelope-o"><span class="label">Email</span></a></li>
+						</ul>
+						<!-- <p class="copyright">&copy; Untitled. All rights reserved.</p> -->
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

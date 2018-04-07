@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="160px" height="130px" viewBox="0 0 160 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 19</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="141" height="109.754098"></rect>
+        <rect id="path-2" x="11" y="11.7213115" width="120" height="86.3114754"></rect>
+        <rect id="path-3" x="19" y="21.3114754" width="141" height="108.688525"></rect>
+        <rect id="path-4" x="29" y="31.9672131" width="122" height="87.3770492"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-3" transform="translate(-894.000000, -2942.000000)">
+            <g id="Group-19" transform="translate(894.000000, 2942.000000)">
+                <g id="Rectangle-12">
+                    <use fill="#99A4ED" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <rect stroke="#606061" stroke-width="3" x="1.5" y="1.5" width="138" height="106.754098"></rect>
+                </g>
+                <g id="Rectangle-13">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <rect stroke="#606061" stroke-width="3" x="12.5" y="13.2213115" width="117" height="83.3114754"></rect>
+                </g>
+                <g id="Rectangle-11">
+                    <use fill="#99A4ED" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <rect stroke="#606061" stroke-width="3" x="20.5" y="22.8114754" width="138" height="105.688525"></rect>
+                </g>
+                <g id="Rectangle-6">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    <rect stroke="#606061" stroke-width="3" x="30.5" y="33.4672131" width="119" height="84.3770492"></rect>
+                </g>
+                <polyline id="Path-31" stroke="#606061" stroke-width="2" points="30.6277074 97.9614042 76.7999777 49.4287474 124.688093 100.337317"></polyline>
+                <path d="M99.4235595,105.798098 L138.168917,105.798098" id="Path-32" stroke="#606061" stroke-width="2"></path>
+                <polyline id="Path-33" stroke="#606061" stroke-width="2" points="99.5774725 73.4239025 115.827916 56.3126461 148.653731 90.8666412"></polyline>
+                <ellipse id="Oval-4" stroke="#606061" stroke-width="2" cx="98" cy="49.0163934" rx="8" ry="8.52459016"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>
